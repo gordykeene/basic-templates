@@ -1,0 +1,21 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "cSpell.words": [
+        "affordances",
+        "appsettings",
+        "dispositioning",
+        "Kanban",
+        "Requalification",
+        "Retrium",
+        "SDLC",
+        "standups",
+        "udfs",
+        "VARCHAR",
+        "VNET",
+        "watercooler"
+    ],
+    "editor.rulers": [
+        { "column": 100, "color": "#553300", "style": "dashed" },
+        { "column": 120, "color": "#580583" }
+    ]
+}

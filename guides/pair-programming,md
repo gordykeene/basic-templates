@@ -1,0 +1,21 @@
+# Pair Programming
+
+TODO: This is a _really old_ copy, and needs rework
+
+* Pair programming requires communication
+  * Good: Verbalize what you are thinking.
+  * Bad:  Realize you need to research something (which itself is fine), but then just go off and do it.
+    * Handle this with communication: "I just realized I don't know this, give me a few minutes while I try/research/find-an-example. I'll let you know when I'm ready to resume."
+* Pair programming is a collaboration, not a rhetorical/pedantic Q&A
+  * Good: I think I see another way to do this, do you want to give it a shot?
+  * Bad:  Can you think of another way to do this?
+    * Handle this with "Please just share what you are thinking."
+* Pair programming is not a time for a "show me what you got, kid" mentality.
+  * Good: I'm thinking of trying this.
+  * Bad:  Here's the keyboard, you do it from scratch (while knowing I've done this a million times).
+    * It may be hard to identify, but if you think this is happening to you, address it directly:
+            "It appears you've done this before, talk me through it."
+* Not everything related to development is a great target for PP.
+  * Researching/learning how something complex works may require a lot of thought.
+
+* Teaching someone to fish doesn't preclude showing them how to fish.

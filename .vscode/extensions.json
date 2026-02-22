@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "bierner.markdown-mermaid",
+    "davidanson.vscode-markdownlint",
+    "editorconfig.editorconfig",
+    "geddski.macros",
+    "github.copilot-chat",
+    "mattickx.copilotignore-vscode",
+    "mechatroner.rainbow-csv",
+    "mhutchie.git-graph",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
